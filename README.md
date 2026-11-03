@@ -4,7 +4,7 @@
 
 > **Case study:** A real, self-directed business automation project for SnackyBara. Not a claim of paid client work. The images below come from the owner's Make.com workspace and a public Facebook post, selectively cropped to exclude private scenario inputs and run identifiers.
 
-![Simplified approval-based workflow architecture](assets/workflow-overview.svg)
+![Simplified approval-based workflow architecture](workflow-overview.svg)
 
 ## Business challenge
 
@@ -37,19 +37,19 @@ The scenario configuration has validation and recovery branches. **I do not clai
 
 ### 1. Publishing scenario architecture
 
-![Sanitized Make.com posts scenario overview](assets/make-posts-route-overview-sanitized.png)
+![Sanitized Make.com posts scenario overview](make-posts-route-overview-sanitized.png)
 
 *A zoomed-out view of the active posts-and-Reels scenario, cropped to remove the browser address bar and unrelated interface. The conceptual diagram above explains its major stages more clearly than the compressed Make screenshot.*
 
 ### 2. Example Story scenario execution
 
-![Sanitized story scenario run](assets/make-stories-run-sanitized.png)
+![Sanitized story scenario run](make-stories-run-sanitized.png)
 
 *Selected portions of a November 3, 2026 Make.com run showing its started timestamp and green module-status indicators. The screenshot excludes the execution ID and API request details. This demonstrates a recorded run; it does not, alone, establish a matching public Story or overall monthly success rate.*
 
 ### 3. Public publication example
 
-![Example Facebook publication](assets/facebook-publication-example.png)
+![Example Facebook publication](facebook-publication-example.png)
 
 *An example of a social post published on the SnackyBara Facebook Page. This image and the Story execution screenshot are separate examples; they have not been correlated as one identical transaction.*
 
